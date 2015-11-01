@@ -1,0 +1,9 @@
+Get the Galaxy code:
+% git clone https://github.com/galaxyproject/galaxy
+
+Run Galaxy:
+% cd galaxy/
+% sh run.sh
+
+Since Galaxy is running on localhost (port 8080), we can access it using the web browser:
+http://localhost:8080/
